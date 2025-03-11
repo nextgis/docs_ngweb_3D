@@ -1,6 +1,6 @@
 .. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.ru>
 
-.. _ngw_3d_models:
+.. _ngw_3d_styles:
 
 Стили 3D данных
 ===============
