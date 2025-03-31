@@ -1,6 +1,6 @@
 .. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
 
-.. _ngw_3d_models:
+.. _ngw_3d_styles:
 
 3D data Styles
 ===============
@@ -78,7 +78,7 @@ You can set constant values or select fields from the vector layer attributes ta
    :align: center
    :width: 20cm
 
-    3D style settings
+   3D style settings
 
 .. _ngw_3d_poi:
 
