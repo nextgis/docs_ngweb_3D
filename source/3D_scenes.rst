@@ -112,18 +112,18 @@ You can specify the URL or find the one you need in the search In the Settings, 
 
    Basemap settings
          
-The Terrain resource of the previously created TMS layer is added to the 3D scene on the Terrain tab (:numref:`ngw3D_terrain_3D_scen_en`).
-Adding occurs through the standard addition of a resource in the corresponding window (:numref:`ngw3D_select_terrain_3D_scen`).
+The Terrain resource of the previously created TMS layer is added to the 3D scene on the Terrain tab (:numref:`ngw3D_terrain_3D_scen_pic`).
+Adding occurs through the standard addition of a resource in the corresponding window (:numref:`ngw3D_select_terrain_3D_scene_pic`).
 
 .. figure:: _static/ngw3D_terrain_3D_scen_en.png
-   :name: ngw3D_terrain_3D_scen
+   :name: ngw3D_terrain_3D_scen_pic
    :align: center
    :width: 20cm
 
    Terrain Resource settings of 3D scene
 
 .. figure:: _static/ngw3D_select_terrain_3D_scene_en.png
-   :name: ngw3D_select_terrain_3D_scene
+   :name: ngw3D_select_terrain_3D_scene_pic
    :align: center
    :width: 10cm
 
