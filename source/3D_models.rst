@@ -29,19 +29,19 @@ To upload a 3D model, you need to create a “3D model” resource. It is locate
    Resource selection "3D model"
 
 The process of creating a 3D model resource is performed step by step and is divided into 4 tabs in the interface.
-On the first one you need to set the name of the 3D model resource (:numref:`ngw3D_name_3D_model`). This field is required.
+On the first one you need to set the name of the 3D model resource (:numref:`ngw3D_name_3D_model_pic`). This field is required.
 
 .. figure:: _static/ngw3D_name_3D_model_en.png
-   :name: ngw3D_name_3D_model_en
+   :name: ngw3D_name_3D_model_pic
    :align: center
    :width: 20cm
 
    Resource name "3D model"
 
-On the second tab it is possible to add a text description of the resource in any form (:numref:`ngw3D_desc_3D_model`).
+On the second tab it is possible to add a text description of the resource in any form (:numref:`ngw3D_desc_3D_model_pic`).
 
 .. figure:: _static/ngw3D_desc_3D_model_en.png
-   :name: ngw3D_desc_3D_model_en
+   :name: ngw3D_desc_3D_model_pic
    :align: center
    :width: 20cm
 
