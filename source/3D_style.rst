@@ -11,7 +11,7 @@ General
 -------
 
 3D Data Styles are applied to vector layers that need to be created in advance by selecting the appropriate type of NextGIS Web resource (:numref:`ngw3D_select_vect_layer`) 
-and uploading objects into it in the ESRI Shapefile or GeoJSON format (:numref:`ngw3D_upload_vect_data`).
+and uploading objects into it in the :term:`ESRI Shapefile`, :term:`GeoJSON`, :term:`GeoPackage`, :term:`GeoJSON`, :term:`GML`, :term:`KML`, :term:`CSV` or :term:`XLSX` format (:numref:`ngw3D_upload_vect_data`).
 
 .. figure:: _static/ngw3D_select_vect_layer_en.png
    :name: ngw3D_select_vect_layer
