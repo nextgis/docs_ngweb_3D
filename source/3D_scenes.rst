@@ -1,4 +1,4 @@
-.. sectionauthor:: Роман Гайнуллов <roman.gainullov@nextgis.ru>
+
 
 .. _ngw_3d_scenes:
 
@@ -114,7 +114,7 @@
 
    Выбор типа создаваемого ресурса "Подложка веб-карты"
 
-В настройках можно указать URL или найти нужную в поиске, если такая есть в каталоге `QuickMapServices <https://qms.nextgis.com/>`_ (:numref:`ngw3D_settings_basemap_3D_scene`). `Подробнее о подложках <https://docs.nextgis.ru/docs_ngweb/source/layers.html#ngw-create-basemap>`_.
+В настройках можно указать URL или найти нужную в поиске, если такая есть в каталоге `QuickMapServices <https://qms.nextgis.com/>`_ (:numref:`ngw3D_settings_basemap_3D_scene`). `Подробнее о подложках <https://docs.nextgis.ru/docs_ngweb/source/webmaps_admin.html#ngw-map-basemaps>`_.
 
 .. figure:: _static/create_basemap_settings_ru.png
    :name: ngw3D_settings_basemap_3D_scene
