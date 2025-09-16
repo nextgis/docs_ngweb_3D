@@ -1,4 +1,4 @@
-.. sectionauthor:: Roman Gainullov <roman.gainullov@nextgis.com>
+
 
 .. _ngw_3d_dem:
 
